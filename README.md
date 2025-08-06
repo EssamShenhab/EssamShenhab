@@ -6,7 +6,7 @@ Passionate about building scalable ML systems, crafting efficient software solut
 ---
 
 # 🧠 Skills
-- **Python**, **Pandas**, **Scikit-learn**, **OpenCV**
+- **Python**, **Pandas**, **Scikit-learn**, **XGBoost**, **OpenCV**
 - **MLflow**, **Prefect**, **Docker**, **Flask**, **MongoDB**
 - **Data Analysis**, **Power BI**, **SQL**
 
