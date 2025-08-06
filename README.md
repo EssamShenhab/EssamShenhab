@@ -1,13 +1,12 @@
 # Hey 👋 Essam here!
 
-A Junior CSE Student, Data Scientist, and MLOps Enthusiast.  
-Passionate about building smart systems, automating ML workflows, and exploring robotics & embedded tech.
+A CSE Student, Data Scientist, and MLOps Enthusiast.  
+Passionate about building scalable ML systems, crafting efficient software solutions, and bridging the gap between data and engineering.
 
 ---
 
 # 🧠 Skills
-- **Python**, **Pandas**, **Scikit-learn**, **XGBoost**, **OpenCV**
-- **ROS2**, **Gazebo**, **URDF**, **VHDL**, **Embedded Systems**
+- **Python**, **Pandas**, **Scikit-learn**, **OpenCV**
 - **MLflow**, **Prefect**, **Docker**, **Flask**, **MongoDB**
 - **Data Analysis**, **Power BI**, **SQL**
 
