@@ -1,6 +1,6 @@
 # Hey 👋 Essam here!
 
-A CSE Student, Data Scientist, and MLOps Enthusiast.  
+A CSE Student, Data Scientist, and MLOps Engineer.  
 Passionate about building scalable ML systems, crafting efficient software solutions, and bridging the gap between data and engineering.
 
 ---
